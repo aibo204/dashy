@@ -44,9 +44,9 @@ sections:
     description: Get help with Dashy, raise a bug, or get in contact
     url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
     icon: far fa-hands-helping
-  - type: clock
-    options:
-      timeZone: Europe/London
-      format: en-GB
-      hideDate: false
+  - title: qq剪辑
+    description: Get help with Dashy, raise a bug, or get in contact
+    url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
+    icon: far fa-hands-helping
+
   
